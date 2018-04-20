@@ -1,3 +1,38 @@
+body {
+  background-color: #A7E2B8;
+}
+
+.header {
+  text-align: center;
+}
+.container {
+  width: 400px;
+  height: auto;
+  margin: 0 auto;
+  padding: 15px 15px 15px 15px;
+  border-radius: 15px;
+  border: 1px solid #2E8A85;
+  background-color: #D1F0DC;
+}
+
+input {
+  height: 30px;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+button {
+  width: 120px;
+  height: 40px;
+  background-color: #fff;
+  font-size: 12px;
+  border-radius: 15px;
+}
+
+button:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
 .completed {
     color: green;
 }
